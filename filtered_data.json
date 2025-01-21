@@ -1,194 +1,230 @@
 [
     {
-        "Player": "Jase",
-        "Rank": 1
+        "Player": "GNX",
+        "Average_Rank": 2.0
     },
     {
-        "Player": "GNX",
-        "Rank": 2
+        "Player": "Jase",
+        "Average_Rank": 5.0
     },
     {
         "Player": "Caerus",
-        "Rank": 6
+        "Average_Rank": 5.5
     },
     {
         "Player": "Ahlwong",
-        "Rank": 8
-    },
-    {
-        "Player": "AstraAzalea",
-        "Rank": 11
+        "Average_Rank": 7.5
     },
     {
         "Player": "ReaLDoT",
-        "Rank": 21
+        "Average_Rank": 16.0
     },
     {
-        "Player": "Leviathan6116",
-        "Rank": 25
-    },
-    {
-        "Player": "Starforged",
-        "Rank": 33
+        "Player": "AstraAzalea",
+        "Average_Rank": 23.0
     },
     {
         "Player": "Swedish Viking",
-        "Rank": 37
+        "Average_Rank": 29.0
     },
     {
-        "Player": "Antelope",
-        "Rank": 39
+        "Player": "Leviathan6116",
+        "Average_Rank": 38.5
     },
     {
         "Player": "Neon Zoi",
-        "Rank": 42
-    },
-    {
-        "Player": "Kiyohime",
-        "Rank": 53
-    },
-    {
-        "Player": "Rouge",
-        "Rank": 54
-    },
-    {
-        "Player": "RJ",
-        "Rank": 55
-    },
-    {
-        "Player": "RileyTheFox",
-        "Rank": 58
-    },
-    {
-        "Player": "Mojin",
-        "Rank": 60
-    },
-    {
-        "Player": "Lumiere",
-        "Rank": 71
+        "Average_Rank": 44.5
     },
     {
         "Player": "drainer",
-        "Rank": 73
+        "Average_Rank": 51.5
+    },
+    {
+        "Player": "RJ",
+        "Average_Rank": 58.5
     },
     {
         "Player": "KitTea",
-        "Rank": 81
+        "Average_Rank": 69.0
     },
     {
-        "Player": "RBD",
-        "Rank": 107
+        "Player": "Antelope",
+        "Average_Rank": 73.5
     },
     {
-        "Player": "bcho",
-        "Rank": 114
+        "Player": "Kiyohime",
+        "Average_Rank": 76.0
     },
     {
-        "Player": "Jinx nojinxback",
-        "Rank": 118
+        "Player": "RileyTheFox",
+        "Average_Rank": 89.0
     },
     {
-        "Player": "NovaViolet",
-        "Rank": 126
+        "Player": "Lumiere",
+        "Average_Rank": 102.0
     },
     {
-        "Player": "Altair",
-        "Rank": 127
-    },
-    {
-        "Player": "Yeonq",
-        "Rank": 129
-    },
-    {
-        "Player": "xAnother",
-        "Rank": 131
-    },
-    {
-        "Player": "Mostly Harmless",
-        "Rank": 134
+        "Player": "Starforged",
+        "Average_Rank": 105.5
     },
     {
         "Player": "Divine",
-        "Rank": 137
+        "Average_Rank": 114.5
     },
     {
-        "Player": "McSwagims",
-        "Rank": 138
+        "Player": "Mostly Harmless",
+        "Average_Rank": 114.5
     },
     {
-        "Player": "PKOiK",
-        "Rank": 140
+        "Player": "Altair",
+        "Average_Rank": 120.0
+    },
+    {
+        "Player": "Rouge",
+        "Average_Rank": 125.0
     },
     {
         "Player": "Phantomacez",
-        "Rank": 145
-    },
-    {
-        "Player": "Abercor",
-        "Rank": 147
-    },
-    {
-        "Player": "Recursive",
-        "Rank": 162
+        "Average_Rank": 130.0
     },
     {
         "Player": "ShieldMaiden",
-        "Rank": 166
+        "Average_Rank": 135.5
     },
     {
-        "Player": "PrincessFluffy",
-        "Rank": 200
+        "Player": "bcho",
+        "Average_Rank": 135.5
+    },
+    {
+        "Player": "RBD",
+        "Average_Rank": 136.0
+    },
+    {
+        "Player": "xAnother",
+        "Average_Rank": 139.5
+    },
+    {
+        "Player": "Abercor",
+        "Average_Rank": 142.0
+    },
+    {
+        "Player": "Jinx nojinxback",
+        "Average_Rank": 154.0
+    },
+    {
+        "Player": "McSwagims",
+        "Average_Rank": 165.0
+    },
+    {
+        "Player": "Mojin",
+        "Average_Rank": 165.0
+    },
+    {
+        "Player": "Yeonq",
+        "Average_Rank": 168.5
     },
     {
         "Player": "Ichron",
-        "Rank": 214
+        "Average_Rank": 169.5
     },
     {
-        "Player": "Uzi",
-        "Rank": 218
+        "Player": "NovaViolet",
+        "Average_Rank": 170.5
     },
     {
-        "Player": "Kohaku",
-        "Rank": 225
+        "Player": "PKOiK",
+        "Average_Rank": 171.5
     },
     {
         "Player": "SKy",
-        "Rank": 234
+        "Average_Rank": 192.5
+    },
+    {
+        "Player": "PrincessFluffy",
+        "Average_Rank": 195.5
+    },
+    {
+        "Player": "Recursive",
+        "Average_Rank": 197.0
+    },
+    {
+        "Player": "Uzi",
+        "Average_Rank": 210.0
     },
     {
         "Player": "Ziv",
-        "Rank": 242
+        "Average_Rank": 226.5
     },
     {
-        "Player": "Lykosius",
-        "Rank": 250
-    },
-    {
-        "Player": "ToooT",
-        "Rank": 275
-    },
-    {
-        "Player": "Porenn",
-        "Rank": 283
-    },
-    {
-        "Player": "TheMightyNiv",
-        "Rank": 295
-    },
-    {
-        "Player": "Firefly",
-        "Rank": 305
-    },
-    {
-        "Player": "Illyrica",
-        "Rank": 315
+        "Player": "Kohaku",
+        "Average_Rank": 266.0
     },
     {
         "Player": "Ment",
-        "Rank": 320
+        "Average_Rank": 280.0
+    },
+    {
+        "Player": "TheMightyNiv",
+        "Average_Rank": 296.5
+    },
+    {
+        "Player": "Firefly",
+        "Average_Rank": 299.5
+    },
+    {
+        "Player": "ToooT",
+        "Average_Rank": 309.5
+    },
+    {
+        "Player": "Lykosius",
+        "Average_Rank": 311.0
     },
     {
         "Player": "S2U",
-        "Rank": 359
+        "Average_Rank": 317.0
+    },
+    {
+        "Player": "Porenn",
+        "Average_Rank": 318.0
+    },
+    {
+        "Player": "Callmepi",
+        "Average_Rank": 336.0
+    },
+    {
+        "Player": "Senmiaohan",
+        "Average_Rank": 350.0
+    },
+    {
+        "Player": "ChaseTheHyena",
+        "Average_Rank": 359.5
+    },
+    {
+        "Player": "Illyrica",
+        "Average_Rank": 361.5
+    },
+    {
+        "Player": "Seria",
+        "Average_Rank": 386.5
+    },
+    {
+        "Player": "Xifex",
+        "Average_Rank": 420.5
+    },
+    {
+        "Player": "Wanderer dusk",
+        "Average_Rank": 489.0
+    },
+    {
+        "Player": "Chopstickz",
+        "Average_Rank": 490.0
+    },
+    {
+        "Player": "Y3ta",
+        "Average_Rank": 491.0
+    },
+    {
+        "Player": "Shushu",
+        "Average_Rank": 499.5
     }
 ]
